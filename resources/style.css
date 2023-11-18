@@ -31,12 +31,12 @@
 
 #profilePic {
     background-image: url('images/IMG_0522.jpg');
-    height: 10rem;
-    width: 10rem;
+    height: 6rem;
+    width: 6rem;
 }
 
 #profilePic:hover {
     background-image: url('images/IMG_0523.jpg');
-    height: 10rem;
-    width: 10rem;
+    height: 6rem;
+    width: 6rem;
 }
