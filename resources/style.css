@@ -31,8 +31,8 @@
 
 #profilePic {
     background-image: url('images/IMG_0522.jpg');
-    height: 4rem;
-    width: 4rem;
+    height: 10rem;
+    width: 10rem;
 }
 
 #profilePic:hover {
