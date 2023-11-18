@@ -29,6 +29,20 @@
   font-size: 18px;
 }
 
+h1 {
+    font-size: 3rem;
+}
+
+a {
+    color: hsl(282, 77%, 15%);
+    text-decoration: none;
+}
+
+ul.navbar {
+    list-style: none;
+    display: inline-block;
+}
+
 #profilePic {
     background-image: url('images/IMG_0522.jpg');
     height: 6rem;
