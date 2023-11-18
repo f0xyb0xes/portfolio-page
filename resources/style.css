@@ -38,9 +38,8 @@ a {
     text-decoration: none;
 }
 
-ul.navbar {
-    list-style-type: none;
-    display: inline;
+header ul.navbar {
+    list-style: none;
 }
 
 #profilePic {
