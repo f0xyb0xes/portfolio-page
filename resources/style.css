@@ -30,10 +30,11 @@
 }
 
 header {
-    display: inline-flexbox;
-    justify-content: space-evenly;
+    display: inline-flex;
+    justify-content: space-around;
     justify-items: center;
-    align-content: center;
+    align-items: center;
+    width: 100%;
 }
 
 h1 {
@@ -41,13 +42,12 @@ h1 {
 }
 
 a {
-    color: hsl(282, 77%, 15%);
+    color: hsl(282, 77%, 26%);
     text-decoration: none;
 }
 
 header ul#navbar {
     list-style: none;
-    display: inline;
 }
 
 #profilePic {
