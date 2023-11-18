@@ -40,7 +40,7 @@ a {
 
 ul.navbar {
     list-style-type: none;
-    display: inline-block;
+    display: inline;
 }
 
 #profilePic {
