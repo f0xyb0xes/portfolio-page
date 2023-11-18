@@ -10,5 +10,5 @@ Use it like any other site. There are a couple fun surprises if you look hard en
 ## technologies
 This site uses HTML and CSS, along with a little inline JavaScript.
 
-##liscense
+## liscense
 Please don't steal this or edit it all willy-nilly! This is mostly a school project but kind of serious stuff.
