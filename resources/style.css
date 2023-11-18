@@ -38,7 +38,7 @@ a {
     text-decoration: none;
 }
 
-header ul.navbar {
+header ul#navbar {
     list-style: none;
 }
 
