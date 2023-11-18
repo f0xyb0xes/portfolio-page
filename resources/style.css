@@ -41,6 +41,14 @@ h1 {
     font-size: 3rem;
 }
 
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
 a {
     color: hsl(282, 77%, 26%);
     text-decoration: none;
@@ -68,4 +76,14 @@ header ul#navbar {
     justify-items: center;
     width: 100%;
     border: 2px solid hsl(211, 77%, 17%);
+}
+
+button {
+    background-color: hsl(59, 43%, 82%);
+    border: 1px solid hsl(23, 78%, 21%);
+    border-radius: 3px;
+}
+
+footer {
+    font-weight: 300;
 }
