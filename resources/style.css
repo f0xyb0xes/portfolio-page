@@ -32,7 +32,7 @@
 header {
     display: inline-block;
     justify-content: space-evenly;
-    align-items: center;
+    align-content: center;
 }
 
 h1 {
