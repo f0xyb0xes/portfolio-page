@@ -26,4 +26,17 @@
   background-color: hsl(188, 43%, 82%);
   color: hsl(210, 65%, 8%);
   font-family: 'Manrope', sans-serif;
+  font-size: 18px;
+}
+
+#profilePic {
+    background-image: url('resources/images/IMG_0522.jpg');
+    height: 4rem;
+    width: 4rem;
+}
+
+#profilePic:hover {
+    background-image: url('resources/images/IMG_0523.jpg');
+    height: 4rem;
+    width: 4rem;
 }
