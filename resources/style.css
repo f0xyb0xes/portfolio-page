@@ -39,7 +39,7 @@ a {
 }
 
 ul.navbar {
-    list-style: none;
+    list-style-type: none;
     display: inline-block;
 }
 
